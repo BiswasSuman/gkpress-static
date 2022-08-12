@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dam &#8211; GKPress</title>
+	<atom:link href="https://gkpress.in/gk-category/dam/feed/" rel="self" type="application/rss+xml" />
+	<link>https://gkpress.in/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 23 Aug 2021 22:32:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+
+<image>
+	<url>https://gkpress.in/wp-content/uploads/2022/07/cropped-GKPress-icon-32x32.png</url>
+	<title>Dam &#8211; GKPress</title>
+	<link>https://gkpress.in/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>সোমাসিলা বাঁধ ভারতের কোন রাজ্যে অবস্থিত?</title>
+		<link>https://gkpress.in/gk/somasila-dam-is-located-in-which-indian-state/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 23 Aug 2021 22:32:19 +0000</pubDate>
+				<guid isPermaLink="false">https://gkpress.in/gk/somasila-dam-is-located-in-which-indian-state/</guid>
+
+					<description><![CDATA[সোমাসিলা বাঁধটি পেন্না নদীর(Penna River) উপর নির্মিত।]]></description>
+										<content:encoded><![CDATA[<p>সোমাসিলা বাঁধটি পেন্না নদীর(Penna River) উপর নির্মিত।</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
