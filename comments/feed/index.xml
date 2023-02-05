@@ -9,13 +9,13 @@
 	<title>
 	Comments for GKPress	</title>
 	<atom:link href="https://gkpress.in/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://gkpress.in/</link>
+	<link>https://gkpress.in</link>
 	<description></description>
-	<lastBuildDate>Mon, 15 Aug 2022 04:29:28 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 Feb 2023 06:37:01 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 </channel>
 </rss>

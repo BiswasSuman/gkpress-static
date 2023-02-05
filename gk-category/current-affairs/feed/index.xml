@@ -10,7 +10,7 @@
 <channel>
 	<title>Current affairs &#8211; GKPress</title>
 	<atom:link href="https://gkpress.in/gk-category/current-affairs/feed/" rel="self" type="application/rss+xml" />
-	<link>https://gkpress.in/</link>
+	<link>https://gkpress.in</link>
 	<description></description>
 	<lastBuildDate>Tue, 09 Aug 2022 07:07:01 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,12 +18,12 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
 	<url>https://gkpress.in/wp-content/uploads/2022/07/cropped-GKPress-icon-32x32.png</url>
 	<title>Current affairs &#8211; GKPress</title>
-	<link>https://gkpress.in/</link>
+	<link>https://gkpress.in</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -33,7 +33,7 @@
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 04 Aug 2022 04:26:37 +0000</pubDate>
-				<guid isPermaLink="false">https://gkpress.in/?post_type=gk&#038;p=1837</guid>
+				<guid isPermaLink="false">https://gkpress.in/?post_type=gk#038;p=1837</guid>
 
 					<description><![CDATA[ভারতে Garuda &#8211; v বিমান মহড়াটি ভারতীয় বায়ুসেনা ও ফরাসি বায়ুসেনার সাথে যৌথ হবে অনুষ্ঠিত হয়।]]></description>
 										<content:encoded><![CDATA[<p>ভারতে Garuda &#8211; v বিমান মহড়াটি ভারতীয় বায়ুসেনা ও ফরাসি বায়ুসেনার সাথে যৌথ হবে অনুষ্ঠিত হয়।</p>
