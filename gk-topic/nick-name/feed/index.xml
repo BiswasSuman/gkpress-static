@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Nick Name &#8211; GKPress</title>
+	<atom:link href="https://gkpress.in/gk-topic/nick-name/feed/" rel="self" type="application/rss+xml" />
+	<link>https://gkpress.in</link>
+	<description></description>
+	<lastBuildDate>Tue, 25 Jul 2023 06:49:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3</generator>
+
+<image>
+	<url>https://gkpress.in/wp-content/uploads/2022/07/cropped-GKPress-icon-32x32.png</url>
+	<title>Nick Name &#8211; GKPress</title>
+	<link>https://gkpress.in</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>মগধের কোন শাসক &#8216;সেনিয়া&#8217; নামে পরিচিত ছিলেন ?</title>
+		<link>https://gkpress.in/gk/which-ruler-of-magadha-was-known-as-senia/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 25 Jul 2023 06:47:41 +0000</pubDate>
+				<guid isPermaLink="false">https://gkpress.in/?post_type=gk#038;p=1303</guid>
+
+					<description><![CDATA[হর্ষঙ্ক রাজবংশের প্রতিষ্ঠাতা বিম্বিসার &#8216;সেনিয়া&#8217; নামে পরিচিত ছিলেন।]]></description>
+										<content:encoded><![CDATA[<p>হর্ষঙ্ক রাজবংশের প্রতিষ্ঠাতা বিম্বিসার &#8216;সেনিয়া&#8217; নামে পরিচিত ছিলেন।</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>মুঘল সম্রাট জিন্দাপীর নামে পরিচিত</title>
+		<link>https://gkpress.in/gk/mughal-emperor-is-known-as-zindapi/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 31 Mar 2021 17:15:22 +0000</pubDate>
+				<guid isPermaLink="false">https://gkpress.in/gk/mughal-emperor-is-known-as-zindapi/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
