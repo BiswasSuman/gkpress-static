@@ -11,11 +11,11 @@
 	<atom:link href="https://gkpress.in/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://gkpress.in</link>
 	<description></description>
-	<lastBuildDate>Sun, 27 Aug 2023 03:44:04 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 26 Sep 2023 05:30:46 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 </channel>
 </rss>
